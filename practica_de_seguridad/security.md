@@ -57,7 +57,6 @@ Los permisos en GitHub se asignan según el rol del colaborador en el equipo:
 ## 4. Evidencias y Pruebas Realizadas
 
 Se adjuntan capturas de pantalla y logs que demuestran:
-
 * Configuración de permisos en GitHub.
 * Pruebas de acceso según cada rol.
 * Configuración de ramas protegidas.

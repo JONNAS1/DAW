@@ -1,2 +1,26 @@
-* Contraseña importante:
-pOCA FE
+# Archivos de entorno y configuraciones locales
+.env
+*.env.local
+*.env.*.local
+
+# Archivos temporales y de sistema
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Dependencias y binarios
+node_modules/
+dist/
+build/
+*.exe
+*.dll
+
+# IDEs y editores
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Archivos de base de datos locales
+*.sqlite
+*.db

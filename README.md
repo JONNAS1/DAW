@@ -47,20 +47,32 @@ El objetivo es comprender el funcionamiento básico de GitHub y adquirir una vis
 * Haz clic en **Add file → Upload files** y selecciona los archivos desde tu ordenador.  
 * Pulsa **Commit changes** para subirlos.  
 
+---
+
 ### 4. Confirmar cambios/Hacer commits
 * Clicar en **Commit changes**.
+
+---
 
 ### 5. Hacer commits en la rama main
 * Clicar en **Commit directly to the main, brach**.
 
+---
+
 ### 6.Ver historial
 * Clicar en **commits**.
+
+---
 
 ### 7. Crear rama
 * Create **brach**.
 
+---
+
 ### 8. Modificar rama
 * Todos los cambios que hayas hecho e esta rama no afectará a la rama main hasta que decidas **fusionarlas**.
+
+---
 
 ### 9. Fusionar ramas
 * Para fusionar los cambios de una rama principal (**main**) hsy que hacer **pull request**.
@@ -71,4 +83,4 @@ El objetivo es comprender el funcionamiento básico de GitHub y adquirir una vis
 4. Clicar "Create pull request" 
 
 ## Conclusión:
-Gracias a GitHub que que permite **almacenar, gestionar y compartir código fuente** utilizando el sistema de control de versiones **Git**., desarrolladores de todo el mundo pueden **colaborar en proyectos**.
+> Gracias a GitHub que que permite **almacenar, gestionar y compartir código fuente** utilizando el sistema de control de versiones **Git**., desarrolladores de todo el mundo pueden **colaborar en proyectos**.
